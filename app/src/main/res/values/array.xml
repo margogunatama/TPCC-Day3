@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>Berlin</item>
+        <item>Bandungan</item>
+        <item>Bebo</item>
+        <item>Barcel</item>
+    </string-array>
+    <array name="places_pic">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+    </array>
+</resources>
